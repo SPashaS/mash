@@ -1,0 +1,18 @@
+@media only screen and (min-width: 1023.98px) {
+    .header {
+        background-color: #F8F8F8;
+    }
+    
+    .logo-header__image_light {
+        display: block;
+    }
+
+    .logo-header__image_dark {
+        display: none;
+    }
+
+    .center-header__item_social-list .social-list .social-list__item {
+        background: #EDEEE9;
+        transition: all 0.3s ease 0s;
+    }
+}
